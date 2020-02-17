@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+  <channel>
+    <title>Traffic Scotland - Current Incidents</title>
+    <description>Current incidents on the road network e.g. accidents</description>
+    <link>https://trafficscotland.org/currentincidents/</link>
+    <language />
+    <copyright />
+    <managingEditor />
+    <webMaster />
+    <lastBuildDate>Sun, 09 Feb 2020 09:22:47 GMT</lastBuildDate>
+    <docs>https://trafficscotland.org/rss/</docs>
+    <rating />
+    <generator>Traffic Scotland | www.trafficscotland.org</generator>
+    <ttl>5</ttl>
+    <item>
+      <title>A9000 Forth Road Bridge - Closed to high vehicles</title>
+      <description>The A9000 (Forth Road Bridge) is closed to High sided vehicles due to high winds affecting driving conditions.</description>
+      <link>http://tscot.org/01a12023</link>
+      <georss:point>56.001544 -3.404265</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 09 Feb 2020 09:13:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>A78 A8 Greenock - B788 Larkfield - Closure</title>
+      <description>The A78 is closed southbound from the South Street Roundabout in Greenock due to a unsafe building. Motorists are advised to use alternative route and expect longer than normal journey times. </description>
+      <link>http://tscot.org/01c266869</link>
+      <georss:point>55.947016719089 -4.77120630771179</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sat, 08 Feb 2020 19:22:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>A87 Skye Bridge - Closed to high vehicles</title>
+      <description>The A87 Skye Bridge is closed to High Sided Vehicles due to high winds affecting driving conditions.</description>
+      <link>http://tscot.org/01c266873</link>
+      <georss:point>57.2772769825118 -5.741514002315</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 09 Feb 2020 07:23:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>M898 Erskine Bridge approach M8 J30 - M898 J1 - High winds</title>
+      <description>Road users are advised to use caution crossing the A898 Erskine Bridge due to high winds currently affecting driving conditions.</description>
+      <link>http://tscot.org/01c266876</link>
+      <georss:point>55.9066242740221 -4.4745903991262</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 09 Feb 2020 08:00:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>A876 Kilbagie Roundabout - Higgins Neuk Roundabout - High winds</title>
+      <description>Road users are advised to use caution crossing the A876 (Clackmannanshire Bridge) due to high winds currently affecting driving conditions.</description>
+      <link>http://tscot.org/01c266878</link>
+      <georss:point>56.0775789971851 -3.73632117725111</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 09 Feb 2020 08:14:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>M90 J1b Ferrytoll - J1a Queensferry - High winds</title>
+      <description>Road users are advised to use caution crossing the M90 Queensferry Crossing due to high winds currently affecting driving conditions.</description>
+      <link>http://tscot.org/01c266882</link>
+      <georss:point>56.0101187788091 -3.4087898787554</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 09 Feb 2020 09:21:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>M9 Dumbarton road - J9 (Bannockburn) - Flooding</title>
+      <description>M9 between junction 9-10 is currently restricted westbound due to flooding. Drivers are advised to use caution on approach and plan for longer than normal journey times.</description>
+      <link>http://tscot.org/01c266883</link>
+      <georss:point>56.1130299260256 -3.96527520340653</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 09 Feb 2020 09:22:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>A92 Tay Road Bridge - Open to cars only</title>
+      <description>The A92 Tay Road Bridge is open to cars only due to high winds affecting driving conditions.</description>
+      <link>http://tscot.org/01c266886</link>
+      <georss:point>56.4536670525324 -2.94757408090319</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 09 Feb 2020 09:08:35 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

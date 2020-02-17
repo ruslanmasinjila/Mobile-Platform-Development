@@ -1,0 +1,1790 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+  <channel>
+    <title>Traffic Scotland - Roadworks</title>
+    <description>Roadworks currently being undertaken on the road network.</description>
+    <link>https://trafficscotland.org/roadworks/</link>
+    <language />
+    <copyright />
+    <managingEditor />
+    <webMaster />
+    <lastBuildDate>Sun, 09 Feb 2020 00:00:00 GMT</lastBuildDate>
+    <docs>https://trafficscotland.org/rss/</docs>
+    <rating />
+    <generator>Traffic Scotland | www.trafficscotland.org</generator>
+    <ttl>5</ttl>
+    <item>
+      <title>M90 J1 to J3</title>
+      <description>Start Date: Wednesday, 01 January 2020 - 00:00&lt;br /&gt;End Date: Tuesday, 31 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cFB2019700</link>
+      <georss:point>56.0367767647623 -3.40822032632123</georss:point>
+      <author />
+      <comments />
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M90 J1 to J3</title>
+      <description>Start Date: Wednesday, 01 January 2020 - 00:00&lt;br /&gt;End Date: Tuesday, 31 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cFB2019701</link>
+      <georss:point>56.0732980724831 -3.38885965373524</georss:point>
+      <author />
+      <comments />
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M90 J1 to J3</title>
+      <description>Start Date: Monday, 06 January 2020 - 00:00&lt;br /&gt;End Date: Thursday, 31 December 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cFB2019704</link>
+      <georss:point>56.0847247150839 -3.40105048324989</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 06 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M90 J1 to J3</title>
+      <description>Start Date: Monday, 06 January 2020 - 00:00&lt;br /&gt;End Date: Thursday, 31 December 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cFB2019705</link>
+      <georss:point>56.0201823620682 -3.4064610296928</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 06 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M90 J3 to J1c</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Tuesday, 11 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cFB2020715</link>
+      <georss:point>56.0789964469943 -3.39430286146508</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M90 J3 to J1c</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Tuesday, 11 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cFB2020716</link>
+      <georss:point>56.039955423846 -3.40684330653995</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M90 J1c off slip</title>
+      <description>Start Date: Sunday, 09 February 2020 - 00:00&lt;br /&gt;End Date: Monday, 10 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cFB2020722</link>
+      <georss:point>56.0337201706877 -3.40913614687263</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 09 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A90M90 Invergowrie to Barnhill SB - Lane Closure </title>
+      <description>Start Date: Monday, 21 October 2019 - 00:00&lt;br /&gt;End Date: Wednesday, 26 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20197684</link>
+      <georss:point>56.4642750174436 -3.0632624823075</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 21 Oct 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A96 Carden Bridge Oyne Fork - TTL</title>
+      <description>Start Date: Monday, 30 September 2019 - 00:00&lt;br /&gt;End Date: Friday, 06 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20198164</link>
+      <georss:point>57.320310363704 -2.50956062986116</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 30 Sep 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A9 Auchinlay Rail Bridge SB - Vergeworks with Layby Closure </title>
+      <description>Start Date: Wednesday, 23 October 2019 - 00:00&lt;br /&gt;End Date: Friday, 06 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20198523</link>
+      <georss:point>56.2031622842013 -3.95689017994544</georss:point>
+      <author />
+      <comments />
+      <pubDate>Wed, 23 Oct 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A96 Inverness to Auldearn - Vergeworks </title>
+      <description>Start Date: Monday, 02 December 2019 - 00:00&lt;br /&gt;End Date: Tuesday, 31 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20199182</link>
+      <georss:point>57.4822126713545 -4.19113936599502</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A92 Clifton Rd to Hilton Drive SB - Lane Closure </title>
+      <description>Start Date: Monday, 06 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 28 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20199217</link>
+      <georss:point>57.1718209949223 -2.14430394290499</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 06 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A90M90 Barnhill to Errol NB - Lane Closure </title>
+      <description>Start Date: Tuesday, 10 December 2019 - 00:00&lt;br /&gt;End Date: Wednesday, 26 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20199266</link>
+      <georss:point>56.3836046016151 -3.40583535829077</georss:point>
+      <author />
+      <comments />
+      <pubDate>Tue, 10 Dec 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A96 Service road West of Manor Drive WB - Layby Closure </title>
+      <description>Start Date: Wednesday, 08 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20199365</link>
+      <georss:point>57.1735298981246 -2.15013201259266</georss:point>
+      <author />
+      <comments />
+      <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M90 Halbeath to Broxden Rnbt NB - Vergeworks</title>
+      <description>Start Date: Sunday, 05 January 2020 - 00:00&lt;br /&gt;End Date: Saturday, 15 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20209404</link>
+      <georss:point>56.084388009363 -3.40142394534415</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 05 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M90 Broxden Rnbt to Halbeath SB - Vergeworks</title>
+      <description>Start Date: Sunday, 05 January 2020 - 00:00&lt;br /&gt;End Date: Saturday, 15 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20209405</link>
+      <georss:point>56.387012854794 -3.47970880033221</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 05 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A96 West Rd Elgin WB - Road Closure </title>
+      <description>Start Date: Monday, 06 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20209411</link>
+      <georss:point>57.6463907813647 -3.32624939835781</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 06 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A90 Findon Jnct to Laurencekirk - MLC</title>
+      <description>Start Date: Sunday, 12 January 2020 - 00:00&lt;br /&gt;End Date: Saturday, 15 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20209422</link>
+      <georss:point>57.079779644762 -2.11969617216036</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 12 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A92 A96 Middlesfield Place to Auchmill Terrace Aberdeen - MLC</title>
+      <description>Start Date: Sunday, 12 January 2020 - 00:00&lt;br /&gt;End Date: Saturday, 15 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20209423</link>
+      <georss:point>57.1683941639538 -2.14018969765193</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 12 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A96 Craibstone to Colpy - MLC</title>
+      <description>Start Date: Sunday, 12 January 2020 - 00:00&lt;br /&gt;End Date: Saturday, 15 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20209424</link>
+      <georss:point>57.1903094612347 -2.21265973370522</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 12 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A90 Ellon Rnbt to Invernettie Rnbt Peterhead - MLC</title>
+      <description>Start Date: Sunday, 12 January 2020 - 00:00&lt;br /&gt;End Date: Saturday, 15 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20209425</link>
+      <georss:point>57.350715231336 -2.05123297385246</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 12 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A90 Invernettie Rnbt Peterhead to Fraserburgh - MLC</title>
+      <description>Start Date: Sunday, 12 January 2020 - 00:00&lt;br /&gt;End Date: Saturday, 15 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20209426</link>
+      <georss:point>57.4856882215446 -1.80254043084755</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 12 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A90 Invernettie Rnbt Peterhead to Fraserburgh - MLC</title>
+      <description>Start Date: Sunday, 12 January 2020 - 00:00&lt;br /&gt;End Date: Saturday, 15 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20209427</link>
+      <georss:point>57.4856882215446 -1.80254043084755</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 12 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A90 Ellon Rnbt to Invernettie Rnbt Peterhead - MLC</title>
+      <description>Start Date: Sunday, 12 January 2020 - 00:00&lt;br /&gt;End Date: Saturday, 15 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20209428</link>
+      <georss:point>57.3497809472832 -2.05143107250612</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 12 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A90 Tealing SB - Lane Closure </title>
+      <description>Start Date: Sunday, 12 January 2020 - 00:00&lt;br /&gt;End Date: Saturday, 15 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20209495</link>
+      <georss:point>56.5336345829505 -2.94560325027769</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 12 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A95 Boat of Garten Sped restriction - Vergeworks</title>
+      <description>Start Date: Tuesday, 14 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20209511</link>
+      <georss:point>57.2496116079517 -3.7918305762363</georss:point>
+      <author />
+      <comments />
+      <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A90 West Mains of Finavon SB - Lane Closure</title>
+      <description>Start Date: Sunday, 26 January 2020 - 00:00&lt;br /&gt;End Date: Saturday, 22 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20209527</link>
+      <georss:point>56.696676952823 -2.83291859139149</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 26 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A90 Tealing NB - Lane Closure </title>
+      <description>Start Date: Wednesday, 15 January 2020 - 00:00&lt;br /&gt;End Date: Saturday, 15 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20209532</link>
+      <georss:point>56.5248097986854 -2.94470063833568</georss:point>
+      <author />
+      <comments />
+      <pubDate>Wed, 15 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A96 Inverness to Nairn - Vergeworks </title>
+      <description>Start Date: Monday, 20 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20209564</link>
+      <georss:point>57.4822285958378 -4.19125709710705</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 20 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A92 Halbeath to Tay Road Bridge - Vergeworks </title>
+      <description>Start Date: Wednesday, 01 January 2020 - 00:00&lt;br /&gt;End Date: Thursday, 31 December 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20209570</link>
+      <georss:point>56.0820243217438 -3.39671015769147</georss:point>
+      <author />
+      <comments />
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A90 Walnut Grove NB - Vergeworks </title>
+      <description>Start Date: Monday, 27 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20209634</link>
+      <georss:point>56.3865476655187 -3.39825007554612</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 27 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A90 Walnut Grove SB - Vergeworks </title>
+      <description>Start Date: Monday, 27 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20209635</link>
+      <georss:point>56.382323482475 -3.36121817422644</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 27 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A96 Blackhillock - TTL </title>
+      <description>Start Date: Monday, 27 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20209640</link>
+      <georss:point>57.5216029760672 -2.92787517277808</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 27 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M90 Blairadam Jnct 4 to Gairney Farm Jnct 5 NB - Lane Closure</title>
+      <description>Start Date: Sunday, 09 February 2020 - 00:00&lt;br /&gt;End Date: Thursday, 13 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20209706</link>
+      <georss:point>56.1502181739847 -3.39408051893649</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 09 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A96 Nairn Diversion signage - Vergeworks</title>
+      <description>Start Date: Tuesday, 28 January 2020 - 00:00&lt;br /&gt;End Date: Tuesday, 24 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20209709</link>
+      <georss:point>57.5860866759547 -3.86642844164245</georss:point>
+      <author />
+      <comments />
+      <pubDate>Tue, 28 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A92 New Inn Rnbt to Balfarg Jnct - Convoy Works </title>
+      <description>Start Date: Tuesday, 04 February 2020 - 00:00&lt;br /&gt;End Date: Tuesday, 11 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20209719</link>
+      <georss:point>56.233370724032 -3.15498633517941</georss:point>
+      <author />
+      <comments />
+      <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A92 Halbeath Rnbt to Crossgates Rnbt NB - Lane Closure </title>
+      <description>Start Date: Sunday, 09 February 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20209788</link>
+      <georss:point>56.0820485406902 -3.39695207355674</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 09 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A92 Halbeath Rnbt to Crossgates Rnbt SB - Lane Closure </title>
+      <description>Start Date: Sunday, 09 February 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20209789</link>
+      <georss:point>56.0841016247644 -3.38780213619278</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 09 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A9 Auchinlay Rail Bridge NB - Vergeworks </title>
+      <description>Start Date: Tuesday, 04 February 2020 - 00:00&lt;br /&gt;End Date: Tuesday, 31 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20209796</link>
+      <georss:point>56.1977343617957 -3.970476399643</georss:point>
+      <author />
+      <comments />
+      <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A90 Uppermill Cottage Hatton - TTL </title>
+      <description>Start Date: Friday, 07 February 2020 - 00:00&lt;br /&gt;End Date: Monday, 10 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNE20209827</link>
+      <georss:point>57.4251742717313 -1.90482223895346</georss:point>
+      <author />
+      <comments />
+      <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A83 Rest and Be Thankful</title>
+      <description>Start Date: Monday, 21 August 2017 - 00:00&lt;br /&gt;End Date: Friday, 03 July 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW2017599</link>
+      <georss:point>56.2204605401262 -4.84228880908531</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 21 Aug 2017 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A82 Invermoriston to Fort Augustus</title>
+      <description>Start Date: Monday, 12 November 2018 - 00:00&lt;br /&gt;End Date: Monday, 11 May 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW20186603</link>
+      <georss:point>57.2109819806541 -4.61734040460121</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 12 Nov 2018 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A9 Luncarty to Birnam</title>
+      <description>Start Date: Friday, 01 February 2019 - 00:00&lt;br /&gt;End Date: Friday, 30 April 2021 - 00:00&lt;br /&gt;Delay Information: No reported delay</description>
+      <link>http://tscot.org/03cNW20187080</link>
+      <georss:point>56.444278096283 -3.47195746215152</georss:point>
+      <author />
+      <comments />
+      <pubDate>Fri, 01 Feb 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A9 Birnam to Luncarty</title>
+      <description>Start Date: Friday, 01 February 2019 - 00:00&lt;br /&gt;End Date: Friday, 30 April 2021 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW20187081</link>
+      <georss:point>56.5382826382056 -3.54070168913654</georss:point>
+      <author />
+      <comments />
+      <pubDate>Fri, 01 Feb 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A830 Banavie Swing Bridge</title>
+      <description>Start Date: Monday, 02 December 2019 - 00:00&lt;br /&gt;End Date: Friday, 13 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW201910899</link>
+      <georss:point>56.8444416715031 -5.09645415939104</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A9 Longman Rdbt to Raigmore, Inverness</title>
+      <description>Start Date: Monday, 30 September 2019 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW201910975</link>
+      <georss:point>57.4961215578404 -4.22248023590528</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 30 Sep 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A9 Raigmore to Kessock Bridge, Inverness</title>
+      <description>Start Date: Monday, 30 September 2019 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW201910977</link>
+      <georss:point>57.4809542996967 -4.19116407428834</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 30 Sep 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A82 Longman Road, Inverness</title>
+      <description>Start Date: Monday, 30 September 2019 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW201910978</link>
+      <georss:point>57.4858816481418 -4.22075672066215</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 30 Sep 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A82 Longman Road, Inverness</title>
+      <description>Start Date: Monday, 30 September 2019 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW201910979</link>
+      <georss:point>57.4913865168712 -4.2153174575011</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 30 Sep 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A9 Achavanich</title>
+      <description>Start Date: Monday, 07 October 2019 - 00:00&lt;br /&gt;End Date: Sunday, 07 June 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW201911157</link>
+      <georss:point>58.422816876136 -3.41381020185042</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 07 Oct 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A87 Shiel Bridge, Invershiel</title>
+      <description>Start Date: Monday, 06 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 27 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW201911416</link>
+      <georss:point>57.2178263589331 -5.41940694770823</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 06 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A83 Rest and Be Thankful</title>
+      <description>Start Date: Wednesday, 01 January 2020 - 00:00&lt;br /&gt;End Date: Sunday, 31 May 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW201911484</link>
+      <georss:point>56.2224269958903 -4.84511268457062</georss:point>
+      <author />
+      <comments />
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A83 Port Ann, South of Carrick</title>
+      <description>Start Date: Thursday, 07 November 2019 - 00:00&lt;br /&gt;End Date: Tuesday, 30 March 2021 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW201911518</link>
+      <georss:point>56.0276704719992 -5.36000349098093</georss:point>
+      <author />
+      <comments />
+      <pubDate>Thu, 07 Nov 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A85 Drummond St Comrie</title>
+      <description>Start Date: Sunday, 17 November 2019 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW201911624</link>
+      <georss:point>56.3743862546009 -3.98740980248924</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 17 Nov 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A887 Dalchreichart at Dundreggan</title>
+      <description>Start Date: Monday, 18 November 2019 - 00:00&lt;br /&gt;End Date: Sunday, 16 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW201911649</link>
+      <georss:point>57.1466391418935 -4.95488284031962</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 18 Nov 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A84 Callander to Lochearnhead</title>
+      <description>Start Date: Monday, 18 November 2019 - 00:00&lt;br /&gt;End Date: Friday, 20 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW201911652</link>
+      <georss:point>56.2454503452386 -4.23092544818745</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 18 Nov 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A82 Invergloy, north of Spean Bridge</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Friday, 21 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW201911666</link>
+      <georss:point>56.9490167039284 -4.91980991443898</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A82 Primrose Bay, Invermoriston </title>
+      <description>Start Date: Wednesday, 27 November 2019 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW201911730</link>
+      <georss:point>57.253562805618 -4.53089047684163</georss:point>
+      <author />
+      <comments />
+      <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A84 Colliechat, South of  Callander</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Tuesday, 11 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW201911738</link>
+      <georss:point>56.2055790613684 -4.11883978159692</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A83 Arrochar Torpedo Range</title>
+      <description>Start Date: Wednesday, 27 November 2019 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW201911766</link>
+      <georss:point>56.1965501015329 -4.76708026676874</georss:point>
+      <author />
+      <comments />
+      <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A830 Lochybridge to Malaig</title>
+      <description>Start Date: Tuesday, 28 January 2020 - 00:00&lt;br /&gt;End Date: Wednesday, 14 October 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW201911792</link>
+      <georss:point>56.8365437861431 -5.07889445333614</georss:point>
+      <author />
+      <comments />
+      <pubDate>Tue, 28 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A82 Glenurquhart Rd @ Smith Ave, Inverness</title>
+      <description>Start Date: Monday, 13 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 21 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW201911867</link>
+      <georss:point>57.4708851247614 -4.23650725151992</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 13 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A830 Glenfinnan</title>
+      <description>Start Date: Monday, 20 January 2020 - 00:00&lt;br /&gt;End Date: Monday, 10 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW201911870</link>
+      <georss:point>56.8741919496576 -5.45736982114847</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 20 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A887 Invermoriston to Torgoyle Bridge</title>
+      <description>Start Date: Monday, 13 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW201911947</link>
+      <georss:point>57.2146021101328 -4.6174146489514</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 13 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A85 Drummond Street, Comrie</title>
+      <description>Start Date: Sunday, 07 April 2019 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW20198566</link>
+      <georss:point>56.3755308315182 -3.98495925736256</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 07 Apr 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A82 Glenurquhart Road, Inverness</title>
+      <description>Start Date: Monday, 03 June 2019 - 00:00&lt;br /&gt;End Date: Thursday, 31 December 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW20199289</link>
+      <georss:point>57.4653192074877 -4.24178657400664</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Jun 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A9 Birnam to Glen Garry</title>
+      <description>Start Date: Monday, 01 July 2019 - 00:00&lt;br /&gt;End Date: Tuesday, 30 June 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW20199768</link>
+      <georss:point>56.5383903146748 -3.54143787577407</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 01 Jul 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A9 Evanton</title>
+      <description>Start Date: Monday, 13 January 2020 - 00:00&lt;br /&gt;End Date: Thursday, 20 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012024</link>
+      <georss:point>57.6605999466377 -4.33255322505954</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 13 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A85 Glen Ogle, Killin</title>
+      <description>Start Date: Tuesday, 14 January 2020 - 00:00&lt;br /&gt;End Date: Monday, 17 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012047</link>
+      <georss:point>56.4100111630825 -4.31218368282754</georss:point>
+      <author />
+      <comments />
+      <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A835 Loch Garve, Garve</title>
+      <description>Start Date: Monday, 13 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012053</link>
+      <georss:point>57.5927489386228 -4.64068989446375</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 13 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A82 West End RAB, Fort William</title>
+      <description>Start Date: Tuesday, 14 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012098</link>
+      <georss:point>56.8167174312145 -5.11461983341918</georss:point>
+      <author />
+      <comments />
+      <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A830 Morar, East of Mallaig</title>
+      <description>Start Date: Monday, 20 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012108</link>
+      <georss:point>56.9660336760978 -5.82214885597391</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 20 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A830 Banavie Swing Bridge</title>
+      <description>Start Date: Monday, 02 December 2019 - 00:00&lt;br /&gt;End Date: Friday, 13 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012121</link>
+      <georss:point>56.8447161556202 -5.09734617267782</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A82 Aberchalder Swing Bridge</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Friday, 28 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012122</link>
+      <georss:point>57.0925955410643 -4.74345641068444</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A85 Dunadin, Dundas St, Comrie</title>
+      <description>Start Date: Sunday, 26 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 28 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012182</link>
+      <georss:point>56.3752286901641 -3.99146989325462</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 26 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A9 Dunkeld, Birnam</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Saturday, 22 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012185</link>
+      <georss:point>56.5381219943452 -3.54061385195871</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A84 Nyadd, Ochtertyre, Blair Drummond</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012190</link>
+      <georss:point>56.1513333006859 -4.02189047068032</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A828 Duror</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012205</link>
+      <georss:point>56.6406015233311 -5.28428054184822</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A9 Tore to Dornoch</title>
+      <description>Start Date: Monday, 27 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012233</link>
+      <georss:point>57.5374926631558 -4.33236537152727</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 27 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A82 Arden to Inverness</title>
+      <description>Start Date: Monday, 27 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012238</link>
+      <georss:point>56.0352599900859 -4.64005408715581</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 27 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A84 Stirling to Lochearnhead</title>
+      <description>Start Date: Monday, 27 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012239</link>
+      <georss:point>56.1409634152702 -3.98249065229248</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 27 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A85 Perth to Oban</title>
+      <description>Start Date: Monday, 27 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012240</link>
+      <georss:point>56.4069597119712 -3.49398277472871</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 27 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A83 Arrochar to Campbeltown </title>
+      <description>Start Date: Monday, 27 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012241</link>
+      <georss:point>56.2007293526492 -4.72462021713477</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 27 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A830 Caol to Mallaig </title>
+      <description>Start Date: Monday, 27 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012243</link>
+      <georss:point>56.8390552938425 -5.08384035070605</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 27 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A835 Muir of Ord</title>
+      <description>Start Date: Monday, 27 January 2020 - 00:00&lt;br /&gt;End Date: Wednesday, 18 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012244</link>
+      <georss:point>57.5403530277441 -4.34481313669813</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 27 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A85 Connell Bridge</title>
+      <description>Start Date: Monday, 27 January 2020 - 00:00&lt;br /&gt;End Date: Monday, 30 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012276</link>
+      <georss:point>56.4551820051099 -5.39109934266008</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 27 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A85 Connell Bridge</title>
+      <description>Start Date: Monday, 27 January 2020 - 00:00&lt;br /&gt;End Date: Monday, 30 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012277</link>
+      <georss:point>56.4571991952073 -5.3919612166665</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 27 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A82 Falls of Falloch</title>
+      <description>Start Date: Thursday, 06 February 2020 - 00:00&lt;br /&gt;End Date: Monday, 10 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012285</link>
+      <georss:point>56.3468162728557 -4.70319641592524</georss:point>
+      <author />
+      <comments />
+      <pubDate>Thu, 06 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A85 South of Fanans, Pass of Brander</title>
+      <description>Start Date: Thursday, 06 February 2020 - 00:00&lt;br /&gt;End Date: Monday, 10 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012286</link>
+      <georss:point>56.3986142092112 -5.13550938653932</georss:point>
+      <author />
+      <comments />
+      <pubDate>Thu, 06 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A85 Taynuilt</title>
+      <description>Start Date: Tuesday, 04 February 2020 - 00:00&lt;br /&gt;End Date: Friday, 21 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012290</link>
+      <georss:point>56.4300956600849 -5.24240478697694</georss:point>
+      <author />
+      <comments />
+      <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A99 South Road Wick</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012291</link>
+      <georss:point>58.4310727641131 -3.09528204697301</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A82 Loch Lomond Holiday Park, South of Inveruglas</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012298</link>
+      <georss:point>56.2463782805915 -4.71491685421794</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A835 Rogie to Ullapool</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012312</link>
+      <georss:point>57.5844877422132 -4.60185946096987</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A9 Latheronwheel to Gillivoan</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Monday, 17 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012319</link>
+      <georss:point>58.2739083900089 -3.39136641833573</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A99 Latheron</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Monday, 17 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012320</link>
+      <georss:point>58.2831162990325 -3.3671523629983</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A87 Breakish to Ashaig, near Broadford</title>
+      <description>Start Date: Thursday, 30 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012325</link>
+      <georss:point>57.2405025740917 -5.84301908886617</georss:point>
+      <author />
+      <comments />
+      <pubDate>Thu, 30 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A87 Kyleakin to Kyle of Lochalsh</title>
+      <description>Start Date: Tuesday, 04 February 2020 - 00:00&lt;br /&gt;End Date: Sunday, 16 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012326</link>
+      <georss:point>57.2718893139594 -5.74641057612763</georss:point>
+      <author />
+      <comments />
+      <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A82 East of South Ballachulish</title>
+      <description>Start Date: Tuesday, 04 February 2020 - 00:00&lt;br /&gt;End Date: Friday, 27 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012327</link>
+      <georss:point>56.6850819520962 -5.1769395374191</georss:point>
+      <author />
+      <comments />
+      <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A828 West of South Ballachulish</title>
+      <description>Start Date: Tuesday, 04 February 2020 - 00:00&lt;br /&gt;End Date: Friday, 27 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012328</link>
+      <georss:point>56.6862319206146 -5.21963543443854</georss:point>
+      <author />
+      <comments />
+      <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A82 North of Corran Ferry</title>
+      <description>Start Date: Tuesday, 04 February 2020 - 00:00&lt;br /&gt;End Date: Friday, 27 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012329</link>
+      <georss:point>56.7382508097743 -5.21136113308597</georss:point>
+      <author />
+      <comments />
+      <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A83 Rest and Be Thankful</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Friday, 21 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012350</link>
+      <georss:point>56.2011481782683 -4.82604050800279</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A85 Loch Monzievaird, Crieff</title>
+      <description>Start Date: Friday, 07 February 2020 - 00:00&lt;br /&gt;End Date: Monday, 10 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cNW202012412</link>
+      <georss:point>56.3848499052762 -3.8818073976165</georss:point>
+      <author />
+      <comments />
+      <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A7 Mosspaul</title>
+      <description>Start Date: Monday, 13 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 16 October 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE20199352</link>
+      <georss:point>55.2977354787011 -2.94023644218428</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 13 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A7 Mosspaul</title>
+      <description>Start Date: Monday, 13 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 16 October 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE20199353</link>
+      <georss:point>55.2654777516003 -2.96295385750378</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 13 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M9 Whole route</title>
+      <description>Start Date: Monday, 06 January 2020 - 00:00&lt;br /&gt;End Date: Thursday, 31 December 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE20199782</link>
+      <georss:point>55.9375576765288 -3.40181585374037</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 06 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M9 Whole route</title>
+      <description>Start Date: Monday, 06 January 2020 - 00:00&lt;br /&gt;End Date: Thursday, 31 December 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE20199783</link>
+      <georss:point>56.1686497791195 -3.97019411408943</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 06 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M8 Whole route</title>
+      <description>Start Date: Monday, 06 January 2020 - 00:00&lt;br /&gt;End Date: Thursday, 31 December 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE20199784</link>
+      <georss:point>55.9241571393533 -3.31236695051605</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 06 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M8 Whole route</title>
+      <description>Start Date: Monday, 06 January 2020 - 00:00&lt;br /&gt;End Date: Thursday, 31 December 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE20199785</link>
+      <georss:point>55.839041856776 -3.91699335414131</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 06 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M80 Whole route</title>
+      <description>Start Date: Monday, 06 January 2020 - 00:00&lt;br /&gt;End Date: Thursday, 31 December 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE20199786</link>
+      <georss:point>56.0773513796675 -3.92780086052207</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 06 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M80 Whole route</title>
+      <description>Start Date: Monday, 06 January 2020 - 00:00&lt;br /&gt;End Date: Thursday, 31 December 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE20199787</link>
+      <georss:point>55.9938580018108 -3.94036526634509</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 06 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M876 Whole route</title>
+      <description>Start Date: Monday, 06 January 2020 - 00:00&lt;br /&gt;End Date: Thursday, 31 December 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE20199788</link>
+      <georss:point>56.002781464045 -3.90581775958649</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 06 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M876 Whole route</title>
+      <description>Start Date: Monday, 06 January 2020 - 00:00&lt;br /&gt;End Date: Thursday, 31 December 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE20199789</link>
+      <georss:point>56.0527847842805 -3.75736688385091</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 06 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M8 Jct 4a</title>
+      <description>Start Date: Monday, 20 January 2020 - 00:00&lt;br /&gt;End Date: Sunday, 08 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE202010039</link>
+      <georss:point>55.8681166143789 -3.73579872960895</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 20 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M8 Jct 3a</title>
+      <description>Start Date: Monday, 20 January 2020 - 00:00&lt;br /&gt;End Date: Sunday, 08 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE202010040</link>
+      <georss:point>55.8985134575674 -3.58973907660502</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 20 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M9 Jcn 3</title>
+      <description>Start Date: Friday, 24 January 2020 - 00:00&lt;br /&gt;End Date: Monday, 17 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE202010061</link>
+      <georss:point>55.9857445493078 -3.54351300568373</georss:point>
+      <author />
+      <comments />
+      <pubDate>Fri, 24 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M9 J10 on slip</title>
+      <description>Start Date: Wednesday, 22 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE202010062</link>
+      <georss:point>56.1338278535896 -3.97352981343315</georss:point>
+      <author />
+      <comments />
+      <pubDate>Wed, 22 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A1 Wallyford</title>
+      <description>Start Date: Sunday, 09 February 2020 - 00:00&lt;br /&gt;End Date: Monday, 10 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE202010096</link>
+      <georss:point>55.9375651405241 -2.99683758305546</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 09 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A1 Wallyford</title>
+      <description>Start Date: Sunday, 09 February 2020 - 00:00&lt;br /&gt;End Date: Monday, 10 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE202010097</link>
+      <georss:point>55.9412015263223 -2.99159966457822</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 09 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M8 Jct 4 Slip Roads</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Sunday, 08 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE202010106</link>
+      <georss:point>55.872493562499 -3.65754725490932</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M8 Jct 4 Slip Roads</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Sunday, 08 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE202010107</link>
+      <georss:point>55.8757342533665 -3.64574483135623</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A702 Westwater Bridge</title>
+      <description>Start Date: Tuesday, 28 January 2020 - 00:00&lt;br /&gt;End Date: Saturday, 15 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE202010109</link>
+      <georss:point>55.7467725154107 -3.36721318788047</georss:point>
+      <author />
+      <comments />
+      <pubDate>Tue, 28 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A702 Westwater Bridge</title>
+      <description>Start Date: Tuesday, 28 January 2020 - 00:00&lt;br /&gt;End Date: Saturday, 15 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE202010110</link>
+      <georss:point>55.746082932398 -3.36781036790578</georss:point>
+      <author />
+      <comments />
+      <pubDate>Tue, 28 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A985 Whole road</title>
+      <description>Start Date: Monday, 27 January 2020 - 00:00&lt;br /&gt;End Date: Thursday, 31 December 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE202010111</link>
+      <georss:point>56.0625144911971 -3.73594899200625</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 27 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A985 Whole road</title>
+      <description>Start Date: Monday, 27 January 2020 - 00:00&lt;br /&gt;End Date: Thursday, 31 December 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE202010112</link>
+      <georss:point>56.0360570694507 -3.42316896473348</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 27 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M9 Sth of J10</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Saturday, 22 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE202010119</link>
+      <georss:point>56.1128246828547 -3.96518431875405</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A68 Jedburgh</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE202010172</link>
+      <georss:point>55.486096431017 -2.54552724000628</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A68 Jedburgh</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE202010173</link>
+      <georss:point>55.4748343192639 -2.55423073032824</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A7Wilton Hill Hawick</title>
+      <description>Start Date: Wednesday, 05 February 2020 - 00:00&lt;br /&gt;End Date: Friday, 21 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE202010194</link>
+      <georss:point>55.4295390872933 -2.78534590708137</georss:point>
+      <author />
+      <comments />
+      <pubDate>Wed, 05 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A7Wilton Hill Hawick</title>
+      <description>Start Date: Wednesday, 05 February 2020 - 00:00&lt;br /&gt;End Date: Friday, 21 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE202010195</link>
+      <georss:point>55.4290275693638 -2.78524093978582</georss:point>
+      <author />
+      <comments />
+      <pubDate>Wed, 05 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M8 Jcn 3</title>
+      <description>Start Date: Sunday, 09 February 2020 - 00:00&lt;br /&gt;End Date: Monday, 10 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE202010222</link>
+      <georss:point>55.9172942012917 -3.53306248074222</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 09 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A1 Sth of Spott Rbt</title>
+      <description>Start Date: Sunday, 09 February 2020 - 00:00&lt;br /&gt;End Date: Wednesday, 12 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE202010227</link>
+      <georss:point>55.9875703607327 -2.5054942669301</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 09 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A1 Sth of Spott Rbt</title>
+      <description>Start Date: Sunday, 09 February 2020 - 00:00&lt;br /&gt;End Date: Wednesday, 12 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE202010228</link>
+      <georss:point>55.9879377528352 -2.50791939291077</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 09 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A7 South of Selkirk</title>
+      <description>Start Date: Tuesday, 07 January 2020 - 00:00&lt;br /&gt;End Date: Monday, 24 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE20209883</link>
+      <georss:point>55.5361999635864 -2.82896834495034</georss:point>
+      <author />
+      <comments />
+      <pubDate>Tue, 07 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A7 South of Selkirk</title>
+      <description>Start Date: Tuesday, 07 January 2020 - 00:00&lt;br /&gt;End Date: Monday, 24 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE20209884</link>
+      <georss:point>55.5401640052992 -2.83274398175975</georss:point>
+      <author />
+      <comments />
+      <pubDate>Tue, 07 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A985 Whole route</title>
+      <description>Start Date: Thursday, 09 January 2020 - 00:00&lt;br /&gt;End Date: Thursday, 31 December 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE20209900</link>
+      <georss:point>56.0625144911971 -3.73594899200625</georss:point>
+      <author />
+      <comments />
+      <pubDate>Thu, 09 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A985 Whole route</title>
+      <description>Start Date: Thursday, 09 January 2020 - 00:00&lt;br /&gt;End Date: Thursday, 31 December 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE20209901</link>
+      <georss:point>56.0361834123887 -3.40981978859327</georss:point>
+      <author />
+      <comments />
+      <pubDate>Thu, 09 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A68 Camptown</title>
+      <description>Start Date: Saturday, 11 January 2020 - 00:00&lt;br /&gt;End Date: Tuesday, 31 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE20209946</link>
+      <georss:point>55.4128834267778 -2.50750967292129</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sat, 11 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A68 Camptown</title>
+      <description>Start Date: Saturday, 11 January 2020 - 00:00&lt;br /&gt;End Date: Tuesday, 31 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSE20209947</link>
+      <georss:point>55.4020112420992 -2.50304362755514</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sat, 11 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M80 N/B J2 Robroyston to J7 Haggs</title>
+      <description>Start Date: Monday, 13 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 06 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSH20201081</link>
+      <georss:point>55.8923936969797 -4.17398992139543</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 13 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M80 S/B J7 Haggs to J2 Robroyston</title>
+      <description>Start Date: Monday, 13 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 06 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSH20201082</link>
+      <georss:point>55.9946022385727 -3.93932824518804</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 13 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M73 S/B M73/M80 Diverge to J3 Mollinsburn</title>
+      <description>Start Date: Monday, 13 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 06 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSH20201084</link>
+      <georss:point>55.9239384840728 -4.04929239552736</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 13 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A77 Carlock</title>
+      <description>Start Date: Friday, 26 October 2018 - 00:00&lt;br /&gt;End Date: Friday, 13 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSW20186509</link>
+      <georss:point>55.0521549792398 -4.9868438577227</georss:point>
+      <author />
+      <comments />
+      <pubDate>Fri, 26 Oct 2018 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A701 Parkgate to St Anns</title>
+      <description>Start Date: Friday, 13 December 2019 - 00:00&lt;br /&gt;End Date: Friday, 28 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSW201911825</link>
+      <georss:point>55.1696941256519 -3.54684504237292</georss:point>
+      <author />
+      <comments />
+      <pubDate>Fri, 13 Dec 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A737 Smithston Rail Bridge</title>
+      <description>Start Date: Saturday, 01 February 2020 - 00:00&lt;br /&gt;End Date: Sunday, 08 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSW201911883</link>
+      <georss:point>55.6664137668864 -4.70958122968105</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sat, 01 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M74 Jct 6 SB off slip to Hamilton </title>
+      <description>Start Date: Sunday, 05 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 28 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSW201912058</link>
+      <georss:point>55.7834291794052 -4.02527364494964</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 05 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M74 Jct 6 NB off slip to Motherwell </title>
+      <description>Start Date: Sunday, 05 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 28 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSW201912059</link>
+      <georss:point>55.7779292464011 -4.01816346303111</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 05 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A78 High Street, Greenock</title>
+      <description>Start Date: Friday, 01 March 2019 - 00:00&lt;br /&gt;End Date: Tuesday, 31 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSW20198119</link>
+      <georss:point>55.9481035079136 -4.76043916372496</georss:point>
+      <author />
+      <comments />
+      <pubDate>Fri, 01 Mar 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A77 Glengall</title>
+      <description>Start Date: Sunday, 16 June 2019 - 00:00&lt;br /&gt;End Date: Sunday, 15 March 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSW20199497</link>
+      <georss:point>55.4356882238746 -4.60816289982696</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 16 Jun 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M8 Jct 25 EB on slip</title>
+      <description>Start Date: Monday, 20 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSW202012381</link>
+      <georss:point>55.8550426036519 -4.34144847486231</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 20 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M8 Jct 25 EB between slips</title>
+      <description>Start Date: Monday, 20 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSW202012382</link>
+      <georss:point>55.8563703968968 -4.34534739580258</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 20 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A77 Carlock</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Friday, 11 September 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSW202012411</link>
+      <georss:point>55.0521549792398 -4.9868438577227</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A78 Irvine Road Largs</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Wednesday, 12 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSW202012908</link>
+      <georss:point>55.7864685256546 -4.85868000185047</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A77 Holmston Roundabout</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Saturday, 22 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSW202012913</link>
+      <georss:point>55.4555947355647 -4.59481420967701</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A77 Holmston Roundabout SB</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Saturday, 22 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSW202012914</link>
+      <georss:point>55.4578443699383 -4.59342760700438</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A77 Holmston Roundabout NB</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Saturday, 22 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSW202012915</link>
+      <georss:point>55.4518656041417 -4.59645138090019</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M8 Jct 29 to Woodhall Rbt</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Saturday, 15 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSW202012954</link>
+      <georss:point>55.8601236233554 -4.45560262725084</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A898 &amp; M898 SB</title>
+      <description>Start Date: Saturday, 08 February 2020 - 00:00&lt;br /&gt;End Date: Monday, 10 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSW202012973</link>
+      <georss:point>55.923427805377 -4.44961777139394</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sat, 08 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A898 &amp; M898 NB</title>
+      <description>Start Date: Saturday, 08 February 2020 - 00:00&lt;br /&gt;End Date: Monday, 10 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSW202012976</link>
+      <georss:point>55.9037035751754 -4.4772521779911</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sat, 08 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A82 NB Barloan to Stoneymollan</title>
+      <description>Start Date: Wednesday, 05 February 2020 - 00:00&lt;br /&gt;End Date: Saturday, 15 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSW202012980</link>
+      <georss:point>55.9532922050599 -4.55587364220082</georss:point>
+      <author />
+      <comments />
+      <pubDate>Wed, 05 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A82 SB Stoneymollan to Barloan</title>
+      <description>Start Date: Wednesday, 05 February 2020 - 00:00&lt;br /&gt;End Date: Saturday, 15 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSW202012981</link>
+      <georss:point>55.9981253068683 -4.59668511854029</georss:point>
+      <author />
+      <comments />
+      <pubDate>Wed, 05 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A737 Roebank Road Beith </title>
+      <description>Start Date: Friday, 07 February 2020 - 00:00&lt;br /&gt;End Date: Monday, 10 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSW202012987</link>
+      <georss:point>55.7585469716486 -4.62649622119118</georss:point>
+      <author />
+      <comments />
+      <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M8 Jct 11 to Jct 12 WB</title>
+      <description>Start Date: Sunday, 09 February 2020 - 00:00&lt;br /&gt;End Date: Monday, 10 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSW202012994</link>
+      <georss:point>55.8677666248644 -4.16697127646677</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 09 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M77 Jct 3 to Jct 4 SB </title>
+      <description>Start Date: Sunday, 09 February 2020 - 00:00&lt;br /&gt;End Date: Monday, 10 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cSW202012995</link>
+      <georss:point>55.7924725159471 -4.34226962301166</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 09 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M8 Eastbound Junction 10 to Junction 6</title>
+      <description>Start Date: Wednesday, 01 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 01 January 2021 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cTMI20195196</link>
+      <georss:point>55.8689271468937 -4.13658723421105</georss:point>
+      <author />
+      <comments />
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M8 Westbound Junction 6 to Junction 10</title>
+      <description>Start Date: Wednesday, 01 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 01 January 2021 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cTMI20195197</link>
+      <georss:point>55.8423290214534 -3.90265282183702</georss:point>
+      <author />
+      <comments />
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M73 Northbound Junction 1 to Junction 3</title>
+      <description>Start Date: Wednesday, 01 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 01 January 2021 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cTMI20195198</link>
+      <georss:point>55.8354033278106 -4.09910345224031</georss:point>
+      <author />
+      <comments />
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M73 Southbound Junction 3 to Junction 1</title>
+      <description>Start Date: Wednesday, 01 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 01 January 2021 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cTMI20195199</link>
+      <georss:point>55.9138600987935 -4.06513024093975</georss:point>
+      <author />
+      <comments />
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M74 Southbound Junction 3A to Junction 6</title>
+      <description>Start Date: Wednesday, 01 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 01 January 2021 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cTMI20195200</link>
+      <georss:point>55.8354844418602 -4.12421216343115</georss:point>
+      <author />
+      <comments />
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M74 Northbound Junction 6 to Junction 3A</title>
+      <description>Start Date: Wednesday, 01 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 01 January 2021 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cTMI20195201</link>
+      <georss:point>55.7844265988797 -4.02746250406655</georss:point>
+      <author />
+      <comments />
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A8(M) Westbound Baillieston Roundabout to Swinton Roundabout</title>
+      <description>Start Date: Wednesday, 01 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 01 January 2021 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cTMI20195202</link>
+      <georss:point>55.8526350998498 -4.09204436475655</georss:point>
+      <author />
+      <comments />
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A8(M) Eastbound Swinton Roundabout to Baillieston Roundabout</title>
+      <description>Start Date: Wednesday, 01 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 01 January 2021 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cTMI20195203</link>
+      <georss:point>55.8527442959464 -4.09671543025982</georss:point>
+      <author />
+      <comments />
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A8 Eastbound Bargeddie Roundabout to Carnbroe</title>
+      <description>Start Date: Wednesday, 01 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 01 January 2021 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cTMI20195204</link>
+      <georss:point>55.8555822236352 -4.08573176112277</georss:point>
+      <author />
+      <comments />
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A8 Westbound Bargeddie Roundabout to Carnbroe</title>
+      <description>Start Date: Wednesday, 01 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 01 January 2021 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cTMI20195205</link>
+      <georss:point>55.8359242314868 -3.98659371386085</georss:point>
+      <author />
+      <comments />
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A725 NB Raith Underpass</title>
+      <description>Start Date: Thursday, 09 January 2020 - 00:00&lt;br /&gt;End Date: Saturday, 19 December 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cTMI20195213</link>
+      <georss:point>55.7971797760015 -4.05556579248734</georss:point>
+      <author />
+      <comments />
+      <pubDate>Thu, 09 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A725 SB Raith Underpass</title>
+      <description>Start Date: Thursday, 09 January 2020 - 00:00&lt;br /&gt;End Date: Saturday, 19 December 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cTMI20195214</link>
+      <georss:point>55.8059442351121 -4.04790553247406</georss:point>
+      <author />
+      <comments />
+      <pubDate>Thu, 09 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M73 N/B &amp; S/B. Jct 1, Maryville, to Jct 3, Mollinsburn</title>
+      <description>Start Date: Monday, 13 January 2020 - 00:00&lt;br /&gt;End Date: Monday, 10 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cTMI20195227</link>
+      <georss:point>55.8353660505328 -4.09918129104863</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 13 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M73 N/B &amp; S/B. Jct 1, Maryville, to Jct 3, Mollinsburn</title>
+      <description>Start Date: Monday, 13 January 2020 - 00:00&lt;br /&gt;End Date: Monday, 10 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cTMI20195228</link>
+      <georss:point>55.9195264845221 -4.06163867529847</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 13 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A725 N/B &amp; S/B. Bothwell bridge to Shawhead</title>
+      <description>Start Date: Monday, 13 January 2020 - 00:00&lt;br /&gt;End Date: Monday, 10 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cTMI20195229</link>
+      <georss:point>55.7964058802666 -4.05616314618096</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 13 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A725 N/B &amp; S/B. Bothwell bridge to Shawhead</title>
+      <description>Start Date: Monday, 13 January 2020 - 00:00&lt;br /&gt;End Date: Monday, 10 February 2020 - 00:00&lt;br /&gt;Delay Information: No reported delay.</description>
+      <link>http://tscot.org/03cTMI20195230</link>
+      <georss:point>55.8416944123414 -4.02403857727174</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 13 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A1</title>
+      <description>Start Date: Friday, 24 January 2020 - 00:00&lt;br /&gt;End Date: Monday, 10 February 2020 - 00:00</description>
+      <link>http://tscot.org/03h106100465</link>
+      <georss:point>55.3399860492315 -1.72660789789491</georss:point>
+      <author />
+      <comments />
+      <pubDate>Fri, 24 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A1</title>
+      <description>Start Date: Monday, 20 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00</description>
+      <link>http://tscot.org/03h113100033</link>
+      <georss:point>54.9559856557406 -1.67773499764526</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 20 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A1</title>
+      <description>Start Date: Monday, 20 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 14 February 2020 - 00:00</description>
+      <link>http://tscot.org/03h113100035</link>
+      <georss:point>54.9560141837211 -1.6783281482107</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 20 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A1</title>
+      <description>Start Date: Friday, 07 February 2020 - 00:00&lt;br /&gt;End Date: Monday, 06 April 2020 - 00:00</description>
+      <link>http://tscot.org/03h113100885</link>
+      <georss:point>54.9517788488478 -1.6543638536282</georss:point>
+      <author />
+      <comments />
+      <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A69</title>
+      <description>Start Date: Sunday, 09 February 2020 - 00:00&lt;br /&gt;End Date: Tuesday, 28 April 2020 - 00:00</description>
+      <link>http://tscot.org/03h113100973</link>
+      <georss:point>54.980746752766 -2.06560914608839</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 09 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A69</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Tuesday, 28 April 2020 - 00:00</description>
+      <link>http://tscot.org/03h113100976</link>
+      <georss:point>54.9830187522392 -2.14119405004903</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M6</title>
+      <description>Start Date: Wednesday, 08 January 2020 - 00:00&lt;br /&gt;End Date: Friday, 03 April 2020 - 00:00</description>
+      <link>http://tscot.org/03h1230100966</link>
+      <georss:point>54.7909273661295 -2.86607161693871</georss:point>
+      <author />
+      <comments />
+      <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M6</title>
+      <description>Start Date: Wednesday, 05 February 2020 - 00:00&lt;br /&gt;End Date: Friday, 03 April 2020 - 00:00</description>
+      <link>http://tscot.org/03h1230100968</link>
+      <georss:point>54.7909273661295 -2.86607161693871</georss:point>
+      <author />
+      <comments />
+      <pubDate>Wed, 05 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M6</title>
+      <description>Start Date: Tuesday, 31 December 2019 - 00:00&lt;br /&gt;End Date: Wednesday, 01 April 2020 - 00:00</description>
+      <link>http://tscot.org/03h1230100970</link>
+      <georss:point>54.6805254377658 -2.78534828685154</georss:point>
+      <author />
+      <comments />
+      <pubDate>Tue, 31 Dec 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M6</title>
+      <description>Start Date: Tuesday, 31 December 2019 - 00:00&lt;br /&gt;End Date: Wednesday, 01 April 2020 - 00:00</description>
+      <link>http://tscot.org/03h1230100971</link>
+      <georss:point>54.6990617670624 -2.7914321092615</georss:point>
+      <author />
+      <comments />
+      <pubDate>Tue, 31 Dec 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>M6</title>
+      <description>Start Date: Tuesday, 04 February 2020 - 00:00&lt;br /&gt;End Date: Wednesday, 01 April 2020 - 00:00</description>
+      <link>http://tscot.org/03h1231200078</link>
+      <georss:point>54.7047810186083 -2.79225736783276</georss:point>
+      <author />
+      <comments />
+      <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A1</title>
+      <description>Start Date: Tuesday, 28 January 2020 - 00:00&lt;br /&gt;End Date: Saturday, 07 March 2020 - 00:00</description>
+      <link>http://tscot.org/03h124500748</link>
+      <georss:point>54.9576608752899 -1.68955842739534</georss:point>
+      <author />
+      <comments />
+      <pubDate>Tue, 28 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A1</title>
+      <description>Start Date: Monday, 03 February 2020 - 00:00&lt;br /&gt;End Date: Tuesday, 25 February 2020 - 00:00</description>
+      <link>http://tscot.org/03h124500749</link>
+      <georss:point>54.9548450645186 -1.67126398461235</georss:point>
+      <author />
+      <comments />
+      <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A1</title>
+      <description>Start Date: Friday, 07 February 2020 - 00:00&lt;br /&gt;End Date: Tuesday, 25 February 2020 - 00:00</description>
+      <link>http://tscot.org/03h204200609</link>
+      <georss:point>54.9574747123701 -1.69055927170737</georss:point>
+      <author />
+      <comments />
+      <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A1</title>
+      <description>Start Date: Friday, 07 February 2020 - 00:00&lt;br /&gt;End Date: Tuesday, 25 February 2020 - 00:00</description>
+      <link>http://tscot.org/03h204200610</link>
+      <georss:point>54.9568547953612 -1.68709737925219</georss:point>
+      <author />
+      <comments />
+      <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A1</title>
+      <description>Start Date: Friday, 07 February 2020 - 00:00&lt;br /&gt;End Date: Tuesday, 25 February 2020 - 00:00</description>
+      <link>http://tscot.org/03h204200613</link>
+      <georss:point>54.9548450645186 -1.67126398461235</georss:point>
+      <author />
+      <comments />
+      <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A1</title>
+      <description>Start Date: Friday, 07 February 2020 - 00:00&lt;br /&gt;End Date: Tuesday, 25 February 2020 - 00:00</description>
+      <link>http://tscot.org/03h204200616</link>
+      <georss:point>54.954953141871 -1.67469836336391</georss:point>
+      <author />
+      <comments />
+      <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A69</title>
+      <description>Start Date: Sunday, 09 February 2020 - 00:00&lt;br /&gt;End Date: Tuesday, 28 April 2020 - 00:00</description>
+      <link>http://tscot.org/03h206400506</link>
+      <georss:point>54.980746752766 -2.06560914608839</georss:point>
+      <author />
+      <comments />
+      <pubDate>Sun, 09 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

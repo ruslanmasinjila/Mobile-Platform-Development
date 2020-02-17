@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">STYLE</string>
+    <string name="action_settings">Settings</string>
+    <string name="Hello">HELLO WORLD!</string>
+</resources>
