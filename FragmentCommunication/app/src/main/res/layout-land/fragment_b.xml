@@ -19,13 +19,15 @@
         android:orientation="horizontal">
 
         <TextView
-            android:text="NAME"
-            style="@style/TextView_STYLE"
-            android:gravity="left"/>
+            android:text="NAME:"
+            android:layout_weight="1"
+            style="@style/TextView_STYLE" />
 
         <TextView
-            android:id="@+id/TextView_NAME"
-            android:text="XXX"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="XXXXXXXXXX"
+            android:layout_weight="1"
             style="@style/TextView_STYLE" />
 
     </LinearLayout>
@@ -36,13 +38,13 @@
         android:orientation="horizontal">
 
         <TextView
-            android:text="AGE"
-            style="@style/TextView_STYLE"
-            android:gravity="left"/>
+            android:text="AGE:"
+            android:layout_weight="1"
+            style="@style/TextView_STYLE" />
 
         <TextView
-            android:id="@+id/TextView_AGE"
-            android:text="XXX"
+            android:text="XXXXXXXXXX"
+            android:layout_weight="1"
             style="@style/TextView_STYLE" />
 
     </LinearLayout>
@@ -53,13 +55,15 @@
         android:orientation="horizontal">
 
         <TextView
-            android:text="TELEPHONE"
-            style="@style/TextView_STYLE"
-            android:gravity="left"/>
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="TELEPHONE:"
+            android:layout_weight="1"
+            style="@style/TextView_STYLE" />
 
         <TextView
-            android:id="@+id/TextView_TELEPHONE"
-            android:text="XXX"
+            android:text="XXXXXXXXXX"
+            android:layout_weight="1"
             style="@style/TextView_STYLE" />
 
 
@@ -72,13 +76,15 @@
         android:orientation="horizontal">
 
         <TextView
-            android:text="EMAIL"
-            style="@style/TextView_STYLE"
-            android:gravity="left"/>
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="EMAIL:"
+            android:layout_weight="1"
+            style="@style/TextView_STYLE" />
 
         <TextView
-            android:id="@+id/TextView_EMAIL"
-            android:text="XXX"
+            android:text="XXXXXXXXXX"
+            android:layout_weight="1"
             style="@style/TextView_STYLE" />
 
 
@@ -90,13 +96,13 @@
         android:orientation="horizontal">
 
         <TextView
-            android:text="ADDRESS"
-            style="@style/TextView_STYLE"
-            android:gravity="left"/>
+            android:text="ADDRESS:"
+            android:layout_weight="1"
+            style="@style/TextView_STYLE" />
 
         <TextView
-            android:id="@+id/TextView_ADDRESS"
-            android:text="XXX"
+            android:text="XXXXXXXXXX"
+            android:layout_weight="1"
             style="@style/TextView_STYLE" />
 
 
