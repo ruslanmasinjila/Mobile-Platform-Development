@@ -8,7 +8,6 @@
         android:id="@+id/TextView_DETAILS"
         style="@style/TextView_STYLE"
         android:text="DETAILS"
-        android:textSize="50sp"
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
         android:layout_weight="0"/>
@@ -25,8 +24,8 @@
 
         <TextView
             android:id="@+id/TextView_NAME"
-            android:text="XXX"
-            style="@style/TextView_STYLE" />
+            style="@style/TextView_STYLE"
+            android:text="" />
 
     </LinearLayout>
 
@@ -42,7 +41,7 @@
 
         <TextView
             android:id="@+id/TextView_AGE"
-            android:text="XXX"
+            android:text=""
             style="@style/TextView_STYLE" />
 
     </LinearLayout>
@@ -59,7 +58,7 @@
 
         <TextView
             android:id="@+id/TextView_TELEPHONE"
-            android:text="XXX"
+            android:text=""
             style="@style/TextView_STYLE" />
 
 
@@ -78,7 +77,7 @@
 
         <TextView
             android:id="@+id/TextView_EMAIL"
-            android:text="XXX"
+            android:text=""
             style="@style/TextView_STYLE" />
 
 
@@ -96,7 +95,7 @@
 
         <TextView
             android:id="@+id/TextView_ADDRESS"
-            android:text="XXX"
+            android:text=""
             style="@style/TextView_STYLE" />
 
 

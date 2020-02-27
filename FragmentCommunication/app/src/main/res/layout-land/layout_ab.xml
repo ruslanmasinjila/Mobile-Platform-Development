@@ -4,17 +4,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <TextView
-        android:text="REMOVE ME"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:gravity="center"
-        android:textSize="28sp"
-        android:layout_weight="1"/>
-
     <FrameLayout android:id="@+id/fragment_a"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:layout_marginRight="5dp"
         android:layout_weight="1"/>
 
     <FrameLayout android:id="@+id/fragment_b"
