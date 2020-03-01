@@ -5,6 +5,7 @@ import android.os.Bundle;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
@@ -31,6 +32,8 @@ public class MainActivity extends AppCompatActivity {
     TextView TextView_AREA_VALUE;
 
     Button Button_CALCULATE_AREA;
+
+    private double area;
 
     ///////////////////////////////////////// END /////////////////////////////////////////
 
@@ -85,7 +88,7 @@ public class MainActivity extends AppCompatActivity {
 
 
                         // Calculate the area using calculateArea method
-                        double area = calculateArea(width,height);
+                        area = calculateArea(width,height);
                         TextView_AREA_VALUE.setText(String.valueOf(area));
 
                         EditText_WIDTH_VALUE.onEditorAction(EditorInfo.IME_ACTION_DONE);
@@ -123,6 +126,24 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
+    /*
+    @Override
+    protected void onSaveInstanceState(@NonNull Bundle outState) {
+        super.onSaveInstanceState(outState);
+
+        outState.putDouble("area",area);
+
+    }
+
+    @Override
+    protected void onRestoreInstanceState(@NonNull Bundle savedInstanceState) {
+        super.onRestoreInstanceState(savedInstanceState);
+        area=savedInstanceState.getDouble("area");
+        TextView_AREA_VALUE.setText(String.valueOf(area));
+    }
+
+     */
+
     ///////////////////////////////////////// START /////////////////////////////////////////
     // This method just returns the product of width and height
     public double calculateArea(double width, double height)
@@ -131,6 +152,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     ///////////////////////////////////////// END /////////////////////////////////////////
+
+
 
 
 
