@@ -17,8 +17,10 @@ public class MainActivity extends AppCompatActivity {
     ///////////////////////////////////////////////////////////////////////////////////////////////
     private FrameLayout FrameLayout_CONTAINER;
     private LinearLayout layout_ab;
-    private Fragment FragmentA;
-    private Fragment FragmentB;
+
+    // Create FragmentA and FragmentB
+    private Fragment FragmentA=new FragmentA();
+    private Fragment FragmentB=new FragmentB();
     ///////////////////////////////////////////////////////////////////////////////////////////////
 
 
@@ -45,25 +47,22 @@ public class MainActivity extends AppCompatActivity {
         //    The other FrameLayout   (fragment_b) will contain FragmentB
         //    Therefore, use the Fragment Manager to add FragmentA and commit into layout_ab
 
-        // Create FragmentA
-        FragmentA = new FragmentA();
 
         // Create FragmentManager and FragmentTransaction
         FragmentManager manager = getSupportFragmentManager();
         FragmentTransaction transaction = manager.beginTransaction();
 
         // Add (replace) FragmentA within FrameLayout fragment_a
-        transaction.replace(layout_ab.findViewById(R.id.fragment_a).getId(),FragmentA);
-
-
-        // Create FragmentB
-        FragmentB = new FragmentB();
+        transaction.add(layout_ab.findViewById(R.id.fragment_a).getId(),FragmentA);
 
         // Add (replace) FragmentB within FrameLayout fragment_b
-        transaction.replace(layout_ab.findViewById(R.id.fragment_b).getId(),FragmentB);
+        transaction.add(layout_ab.findViewById(R.id.fragment_b).getId(),FragmentB);
 
         // Commit the changes
         transaction.commit();
+
+
+
 
 
 

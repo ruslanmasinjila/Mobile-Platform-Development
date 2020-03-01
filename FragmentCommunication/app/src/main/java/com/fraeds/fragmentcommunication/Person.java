@@ -4,12 +4,19 @@ public class Person {
 
 
     private String name = "";
-    private int age = -1;
+    private String age = "-1";
     private String telephone="";
     private String email = "";
     private String address = "";
 
-    public Person(String name, int age, String telephone, String email, String address)
+
+    // Default Constructor
+    public Person()
+    {
+
+    }
+
+    public Person(String name, String age, String telephone, String email, String address)
     {
         this.name = name;
         this.age = age;
@@ -27,11 +34,11 @@ public class Person {
         this.name = name;
     }
 
-    public int getAge() {
+    public String getAge() {
         return age;
     }
 
-    public void setAge(int age) {
+    public void setAge(String age) {
         this.age = age;
     }
 
