@@ -126,7 +126,7 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    /*
+
     @Override
     protected void onSaveInstanceState(@NonNull Bundle outState) {
         super.onSaveInstanceState(outState);
@@ -142,7 +142,7 @@ public class MainActivity extends AppCompatActivity {
         TextView_AREA_VALUE.setText(String.valueOf(area));
     }
 
-     */
+
 
     ///////////////////////////////////////// START /////////////////////////////////////////
     // This method just returns the product of width and height
