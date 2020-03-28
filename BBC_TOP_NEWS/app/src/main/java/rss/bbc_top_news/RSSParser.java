@@ -14,7 +14,7 @@ public class RSSParser
     LinkedList <TopStory> topStoryList = null;
 
 
-    private LinkedList<TopStory> parseRSSString(String rssString)
+    public LinkedList<TopStory> parseRSSString(String rssString)
     {
         TopStory topStory = null;
 
@@ -100,4 +100,5 @@ public class RSSParser
         return topStoryList;
     }
 
+    // THE END
 }
