@@ -1,8 +1,10 @@
 package rss.bbc_top_news;
 
 import androidx.appcompat.app.AppCompatActivity;
+
 import android.os.AsyncTask;
 import android.os.Bundle;
+
 import java.util.LinkedList;
 
 public class MainActivity extends AppCompatActivity {
@@ -21,12 +23,10 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    private class AsyncRSSParser extends AsyncTask<Void, Void, LinkedList<TopStory> >
-    {
+    private class AsyncRSSParser extends AsyncTask<Void, Void, LinkedList<TopStory>> {
 
 
-        protected  LinkedList<TopStory> doInBackground(Void... nothing)
-        {
+        protected LinkedList<TopStory> doInBackground(Void... nothing) {
             LinkedList<TopStory> topStoryList = null;
 
             // Fetch RSS data from BBC News
@@ -40,13 +40,11 @@ public class MainActivity extends AppCompatActivity {
         }
 
         // Print the First Element from the topStoryList returned by doInBackground()
-        protected void onPostExecute(LinkedList<TopStory> topStoryList)
-        {
+        protected void onPostExecute(LinkedList<TopStory> topStoryList) {
             System.out.println(topStoryList.getFirst().toString());
         }
         // END
     }
-
 
 
 }
