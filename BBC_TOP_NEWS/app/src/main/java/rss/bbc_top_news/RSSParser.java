@@ -13,6 +13,10 @@ public class RSSParser
     // Linked List containing top stories each with its own title, description and publication date
     LinkedList <TopStory> topStoryList = null;
 
+    // A LINKED LIST FOR HOLDING THE TITLES OF TOP STORIES
+    // TO BE USED IN LISTVIEW
+    LinkedList <String>  titleList = null;
+
 
     public LinkedList<TopStory> parseRSSString(String rssString)
     {
@@ -36,6 +40,7 @@ public class RSSParser
                     if (xpp.getName().equalsIgnoreCase("channel"))
                     {
                         topStoryList  = new LinkedList<TopStory>();
+                        titleList     = new LinkedList<String>();
 
                         for(int i = 0; i<24; i++)
                         {
@@ -53,23 +58,24 @@ public class RSSParser
                         // Now just get the associated text
                         String temp = xpp.nextText();
                         topStory.setTitle(temp);
+
+                    }
+                    else
+                    // Check which Tag we have
+                    if (xpp.getName().equalsIgnoreCase("description"))
+                    {
+                        // Now just get the associated text
+                        String temp = xpp.nextText();
+                        topStory.setDescription(temp);
                     }
                     else
                         // Check which Tag we have
-                        if (xpp.getName().equalsIgnoreCase("description"))
+                        if (xpp.getName().equalsIgnoreCase("pubDate"))
                         {
                             // Now just get the associated text
                             String temp = xpp.nextText();
-                            topStory.setDescription(temp);
+                            topStory.setPubDate(temp);
                         }
-                        else
-                            // Check which Tag we have
-                            if (xpp.getName().equalsIgnoreCase("pubDate"))
-                            {
-                                // Now just get the associated text
-                                String temp = xpp.nextText();
-                                topStory.setPubDate(temp);
-                            }
                 }
                 else
                 if(eventType == XmlPullParser.END_TAG)
@@ -77,13 +83,13 @@ public class RSSParser
                     if (xpp.getName().equalsIgnoreCase("item"))
                     {
                         topStoryList.add(topStory);
+                        titleList.add(topStory.getTitle());
                     }
                     else
                     if (xpp.getName().equalsIgnoreCase("channel"))
                     {
                         int size;
                         size = topStoryList.size();
-                        System.out.println(size + " Top Stories Parsed");
                     }
                 }
 

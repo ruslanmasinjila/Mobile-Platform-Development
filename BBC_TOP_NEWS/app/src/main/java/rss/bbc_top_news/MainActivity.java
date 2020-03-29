@@ -4,8 +4,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.AsyncTask;
 import android.os.Bundle;
-
 import java.util.LinkedList;
+
+//
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -13,11 +16,18 @@ public class MainActivity extends AppCompatActivity {
     RSSParser rssParser = new RSSParser();
     AsyncRSSParser asyncRSSParser = new AsyncRSSParser();
 
+    //
+    private ListView ListView_LIST;
+    private ArrayAdapter arrayAdapter;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        //
+        ListView_LIST = findViewById(R.id.ListView_LIST);
 
         asyncRSSParser.execute();
 
@@ -41,9 +51,12 @@ public class MainActivity extends AppCompatActivity {
 
         // Print the First Element from the topStoryList returned by doInBackground()
         protected void onPostExecute(LinkedList<TopStory> topStoryList) {
-            System.out.println(topStoryList.getFirst().toString());
+
+            arrayAdapter = new ArrayAdapter(MainActivity.this, android.R.layout.simple_list_item_1, rssParser.titleList);
+            ListView_LIST.setAdapter(arrayAdapter);
+            // END
         }
-        // END
+
     }
 
 
