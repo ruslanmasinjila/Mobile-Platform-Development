@@ -6,9 +6,14 @@ import android.os.AsyncTask;
 import android.os.Bundle;
 import java.util.LinkedList;
 
-//
+
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+
+//
+import android.widget.AdapterView;
+import android.view.View;
+import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -16,9 +21,12 @@ public class MainActivity extends AppCompatActivity {
     RSSParser rssParser = new RSSParser();
     AsyncRSSParser asyncRSSParser = new AsyncRSSParser();
 
-    //
+
     private ListView ListView_LIST;
     private ArrayAdapter arrayAdapter;
+
+    //
+    private TextView TextView_TEXTVIEW;
 
 
     @Override
@@ -26,10 +34,38 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //
+
         ListView_LIST = findViewById(R.id.ListView_LIST);
 
+        //
+        TextView_TEXTVIEW = findViewById(R.id.TextView_TEXTVIEW);
+
+
         asyncRSSParser.execute();
+
+        ////////////////////////////////////////////////////////////////////////////////////////////////
+        ListView_LIST.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+
+                // Get the selected name
+                String selectedTitle = (String)parent.getItemAtPosition(position);
+
+                // Look for Selected Title, once found
+                // Display the details of the Title in TextView_TEXTVIEW
+                for(int i = 0; i < rssParser.topStoryList.size();i++)
+                {
+                    if(selectedTitle.equals(rssParser.topStoryList.get(i).getTitle()))
+                    {
+                        TextView_TEXTVIEW.setText(rssParser.topStoryList.get(i).toString());
+                        break;
+                    }
+                }
+
+
+            }
+        });
 
     }
 
