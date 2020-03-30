@@ -51,12 +51,13 @@ public class TopStory
     public String toString()
     {
         String topStory = "";
-        topStory += title + "\n"
-                    +"=========" + "\n"
+        topStory += "==========================" + "\n"
+                    +title + "\n"
+                    +"==========================" + "\n"
                     +pubDate     + "\n"
-                    +"=========" + "\n"
+                    +"==========================" + "\n"
                     +description + "\n"
-                    +"=========" + "\n";
+                    +"==========================" + "\n";
 
         return topStory;
     }
