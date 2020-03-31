@@ -60,6 +60,7 @@ public class MainActivity extends AppCompatActivity {
                     {
                         TextView_TEXTVIEW.setText(rssParser.topStoryList.get(i).toString());
                         break;
+                        // END
                     }
                 }
 
