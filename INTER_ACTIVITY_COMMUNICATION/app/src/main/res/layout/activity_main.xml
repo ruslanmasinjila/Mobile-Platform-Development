@@ -18,14 +18,15 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/Button_LAUNCHER"
-        android:layout_width="202dp"
-        android:layout_height="61dp"
-        android:text="LAUNCH SECOND_ACTIVITY"
-        android:onClick="launchSecondActivity"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView" />
+    android:id="@+id/Button_LAUNCHER"
+    android:layout_width="202dp"
+    android:layout_height="61dp"
+    android:text="SEND DATA"
+    android:onClick="launchSecondActivity"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/textView" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
